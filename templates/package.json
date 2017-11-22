@@ -1,0 +1,20 @@
+{
+  "name": "{name}",
+  "version": "1.0.0",
+  "description": "{description}",
+  "scripts": {
+    "start": "node --experimental-modules index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thearegee/{project}.git"
+  },
+  "author": "Robin Glen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thearegee/{project}/issues"
+  },
+  "homepage": "https://github.com/thearegee/{project}#readme",
+  "dependencies": {}
+}

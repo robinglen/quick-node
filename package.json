@@ -1,0 +1,24 @@
+{
+  "name": "quick-node",
+  "version": "1.0.0",
+  "description": "Tool to quickly start node projects.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-modules index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thearegee/quick-node.git"
+  },
+  "author": "Robin Glen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thearegee/quick-node/issues"
+  },
+  "homepage": "https://github.com/thearegee/quick-node#readme",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "request": "^2.83.0"
+  }
+}
